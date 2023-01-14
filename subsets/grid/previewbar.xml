@@ -4,7 +4,7 @@
 
   <customView name="Carousel,Boxes,Tiles,Icons,grid">
     <imagegrid name="gamegrid">
-      <showVideoAtDelay>-1</showVideoAtDelay>
+      <showVideoAtDelay>20</showVideoAtDelay>
     </imagegrid>
   </customView>
 
@@ -28,8 +28,10 @@
 			<zIndex>14</zIndex>
 		</image>
 		
-    <image name="md_image">
-      <visible>false</visible>
+    <image name="md_thumbnail">
+      <pos>0.81 0.455</pos>
+      <maxSize>0.25 0.39</maxSize>
+      <origin>0.5 0.5</origin>
     </image>
     <text name="md_name">
       <color>ffffffff</color>
@@ -64,6 +66,7 @@
 		  <size>0.28 0.05</size>
 		</text>
     
+    <!--
     <video name="md_video">
       <pos>0.83 0.455</pos>
       <maxSize>0.29 0.39</maxSize>
@@ -79,7 +82,8 @@
       <pos>0.808 0.45</pos>
       <maxSize>0.26 0.39</maxSize>
     </video>
-    
+    -->
+
     <!--
     <image name="tv_overlay" extra="true">
       <pos>0.68 0.25</pos>

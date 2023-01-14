@@ -9,7 +9,7 @@
       <autoLayout>0 2</autoLayout>
       <cellProportion verticalScreen="true">0.77</cellProportion>
       <autoLayout verticalScreen="true">2 0</autoLayout>
-      <autoLayoutSelectedZoom>1.02</autoLayoutSelectedZoom>
+      <autoLayoutSelectedZoom>1.0</autoLayoutSelectedZoom>
       <imageSource>image</imageSource>
       <margin>0.002 0.004</margin>
       <showVideoAtDelay>800</showVideoAtDelay>
@@ -36,7 +36,7 @@
       <backgroundCenterColor>40404080</backgroundCenterColor>
       <backgroundEdgeColor>40404080</backgroundEdgeColor>
       <padding>5 5</padding>
-      <imageSizeMode>minSize</imageSizeMode>
+      <imageSizeMode>maxSize</imageSizeMode>
       <imageColor>A0A0A0FF</imageColor>
       <backgroundCornerSize>0.021</backgroundCornerSize>
     </gridtile>

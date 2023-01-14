@@ -147,6 +147,7 @@ originally based on: "simple" by nils bonenberger
     <gridtile name="selected">
       <backgroundCenterColor>${centerFadeColor}</backgroundCenterColor>
       <backgroundEdgeColor>${bottomBarColor}</backgroundEdgeColor>
+      <padding>5 5</padding>
       <imageColor>FFFFFFFF</imageColor>
     </gridtile>
     <text name="gridtile">

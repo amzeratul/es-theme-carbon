@@ -13,12 +13,13 @@ originally based on: "simple" by nils bonenberger
       <autoLayout>6 2</autoLayout>
       <autoLayout verticalScreen="true">2 2</autoLayout>
       <autoLayoutSelectedZoom>1.08</autoLayoutSelectedZoom>
+      <imageSource>image</imageSource>
     </imagegrid>
     <text name="gridtile">
-      <visible>false</visible>
+      <visible>true</visible>
     </text>
     <text name="gridtile:selected">
-      <visible>false</visible>
+      <visible>true</visible>
     </text>
     <image name="gridtile.favorite">
       <path>./art/favorite.png</path>
